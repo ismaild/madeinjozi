@@ -1,0 +1,19 @@
+{
+	"type": "startups",
+	"title": "Startups",
+	"entities": [{"company":"ChowHub",
+								"website":"www.chowhub.co.za",
+								"founders":"Ismail Dhorat, Alireza Sadeghi",
+								"launchDate":"2013/02/01",
+								"logo:":"logo",
+								"description":"Online Food Ordering",
+								"coordinates":["28.045488","-26.171452"]},
+								{"company":"Cirqls",
+								"website":"www.cirqls.com",
+								"founders":"Mark, Donavan",
+								"launchDate":"2013/02/15",
+								"logo:":"logo",
+								"description":"Social Marketplace",
+								"coordinates":["28.048000","-26.175052"]}
+							]
+}

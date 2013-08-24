@@ -1,0 +1,13 @@
+{
+	"type": "coworking",
+	"title": "CoWorking Spaces",
+	"entities": [{"company":"Seed Engine",
+								"website":"www.seedengine.co.za",
+								"logo:":"logo",
+								"coordinates":["28.043488","-26.182452"]},
+								{"company":"JoziHub",
+								"website":"www.jozihub.co.za",
+								"logo:":"logo",
+								"coordinates":["28.047200","-26.174052"]}
+							]
+}
