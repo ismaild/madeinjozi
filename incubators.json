@@ -1,1 +1,17 @@
-{}
+{
+	"type": "coworking",
+	"title": "CoWorking Spaces",
+	"entities": [{"company":"Seed Engine",
+								"website":"www.seedengine.co.za",
+								"stage":"idea stage",
+								"type":"Accelerator",
+								"logo:":"logo",
+								"coordinates":["28.043488","-26.182452"]},
+								{"company":"Incubator",
+								"website":"www.incubator.co.za",
+								"stage":"Seed and Growth stage",
+								"type":"Incubator",
+								"logo:":"logo",
+								"coordinates":["28.047200","-26.174052"]}
+							]
+}

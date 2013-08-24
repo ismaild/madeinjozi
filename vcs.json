@@ -1,1 +1,15 @@
-{}
+{
+	"type": "coworking",
+	"title": "CoWorking Spaces",
+	"entities": [{"company":"Angel Hub",
+								"website":"www.angelhub.co.za",
+								"capitalType":"Seed Capital",
+								"logo:":"logo",
+								"coordinates":["28.047488","-26.181452"]},
+								{"company":"Grovest",
+								"website":"www.grovest.co.za",
+								"capitalType":"Seed and Growth Capital",
+								"logo:":"logo",
+								"coordinates":["28.049200","-26.176052"]}
+							]
+}
